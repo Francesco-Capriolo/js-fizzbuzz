@@ -1,0 +1,28 @@
+.ms-box {
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    line-height: 150px;
+    border: 1px solid green;
+}
+
+.ms-bg-fizz {
+    background-image: url("../img/Fizz.webp");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.ms-bg-buzz {
+    background-image: url("../img/buzz.webp");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.ms-bg-fizzbuzz {
+    background-image: url("../img/fizzbuzz.webp");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
